@@ -2,4 +2,7 @@
 
 ### 🛠 DevOps & Cloud Tools
 
-🐧 Linux · 🐳 Docker · ⚙️ Terraform · ☁️ AWS · 🔧 Git & GitHub · 📊 Prometheus · 📈 Grafana
+### 🛠 DevOps & Cloud Tools
+
+🐧 Linux · 🐳 Docker · 📦 Docker Hub · ⚙️ Terraform · ☁️ AWS · 🔧 Git & GitHub · 📊 Prometheus · 📈 Grafana
+
