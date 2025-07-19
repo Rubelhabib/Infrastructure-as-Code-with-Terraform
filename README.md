@@ -52,15 +52,6 @@ _Configure Prometheus + Node Exporter + Grafana for real-time system metrics mon
 🔹 **[Docker Learning App](https://github.com/Rubelhabib/Docker-Learning-App)**  
 _A simple project to understand image building, volumes, and container networking._
 
----
-
-### 📜 Education
-
-- 🎓 **BSc in CSE**, Daffodil International University — *CGPA: 3.46/4.0*
-- 🎓 **Diploma in Computer Engineering**, BIIT Bogura — *CGPA: 3.16/4.0*
-
----
-
 ### 🧪 Trainings & Certifications
 
 - 🏢 **DevOps Bootcamp** – *YourMentors (Ongoing)*  
