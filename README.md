@@ -11,17 +11,6 @@
   🎯 Passionate about building reliable and scalable infrastructure <br>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Graduated in **Computer Science & Engineering** from Daffodil International University
-- 💻 Completed **Diploma in Computer Engineering** from BIIT, Bogura
-- 🧰 Trainee at **DevOps Bootcamp – YourMentors**
-- 🤝 Open to collaboration in **DevOps, cloud automation & scripting projects**
-- 📚 Always learning: currently diving deeper into **AWS, Terraform, Bash & GitHub Actions**
-
----
 
 ### 🔧 Skills & Technologies
 
