@@ -61,12 +61,6 @@ _A simple project to understand image building, volumes, and container networkin
 
 ---
 
-### 📬 Contact Me
-
-- 📍 Dhaka, Bangladesh  
-- 📞 +8801303510553  
-- 📧 iamrubel303@gmail.com  
-
 <p>
   <a href="https://linkedin.com/in/rubel-habib-0226311bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30" />
