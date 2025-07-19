@@ -43,15 +43,6 @@
 </p>
 
 ---
-
-### 💼 Projects
-
-🔹 **[Docker Monitoring Stack](https://github.com/Rubelhabib/-Getting-Started-with-Docker)**  
-_Configure Prometheus + Node Exporter + Grafana for real-time system metrics monitoring._
-
-🔹 **[Docker Learning App](https://github.com/Rubelhabib/Docker-Learning-App)**  
-_A simple project to understand image building, volumes, and container networking._
-
 ### 🧪 Trainings & Certifications
 
 - 🏢 **DevOps Bootcamp** – *YourMentors (Ongoing)*  
