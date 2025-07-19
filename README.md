@@ -51,7 +51,7 @@
 - ⚙️ **AI Optimization: Hill Climbing Workshop** – *Skill Jobs + HRDI*
 
 ---
-
+### Connect with me:
 <p>
   <a href="https://linkedin.com/in/rubel-habib-0226311bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30" />
